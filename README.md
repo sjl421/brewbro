@@ -1,4 +1,4 @@
-brewbro
+BrewBro
 =======
 
-A simple web app to help me in my brewing
+A simple web app to help me in my brewing.
